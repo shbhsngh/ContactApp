@@ -1,0 +1,69 @@
+@media(max-width:767px){
+    .signUp{
+        display:none;
+    }
+}
+@media(min-width:767px){
+    .signUp-xs-custom{
+        display:none;
+    }
+}
+
+.text-headerColor-custom{
+    color:#777;
+    text-decoration:none !important;
+}
+.header-height-custom{
+    height:40px;
+}
+
+.margin-custom{
+    margin-top:10px;
+}
+.img-height-custom{
+    width:100%;
+    height:154px;
+}
+.border-custom{
+    border:1px solid red;
+}
+.text-height-custom{
+    height:152px;
+}
+.hottest-topic-text{
+    font-size:18px;
+}
+.social-img-custom-2{
+    width:25px;
+    height:25px;
+}
+.social-img-custom-1{
+    width:25px;
+    height:25px;
+}
+
+.location-vote-custom{
+    position:absolute;
+    right:0; 
+    bottom:0;
+    padding-bottom:0;
+}
+.social-img-align{
+    position:absolute;
+    left:0;
+    bottom:0;
+}
+.height-vote1{
+    height:69px;
+}
+.top1{
+    margin-top:5px; height:50px; border:1px solid red;
+}
+
+.header-line-custom{
+    margin-top:13px;
+}
+
+.gutter-padding{
+    padding-left:0 !important;
+}
